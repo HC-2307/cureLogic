@@ -1,4 +1,4 @@
-# cureLogic
+# CureLogic
 
 ## Overview
 
